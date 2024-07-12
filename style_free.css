@@ -1,0 +1,20 @@
+*{
+    font-family:africa trial cliff;
+    background-color: rgb(115, 220, 111);
+    text-align: center;
+}
+#money{
+
+}
+#slang{
+    margin-top: 200px;
+    
+}
+.icon{
+    font-size: 34px;
+    transition: transform 0.3s ease-in;
+}
+.icon:hover{
+    transform: scale(3);
+    cursor: pointer;
+}
